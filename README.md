@@ -1,9 +1,11 @@
 # Insurance_Risk_and_Claim_Analysis
 📊 Insurance Risk & Claim Analysis — Exploratory Data Analysis (EDA)
+
 📌 Project Overview
 
 This project focuses on performing an in-depth Exploratory Data Analysis (EDA) on an insurance dataset containing over 37,000 policy records. The goal is to understand customer demographics, risk patterns, claim behaviors, and other business-critical insights.
 We combine Python-based EDA with visualizations and a Power BI dashboard to provide both granular analysis and an interactive overview.
+
 
 🏦 What is Insurance Risk & Claim Analysis?
 
@@ -16,6 +18,7 @@ Provides insights into claim frequency and severity.
 Improves pricing models, fraud detection, and customer segmentation.
 
 Enhances business decision-making and profitability.
+
 
 📂 Dataset
 
@@ -37,7 +40,9 @@ Coverage Zone (Urban, Rural, Suburban, etc.)
 
 Claim Amount, Claim Freq, Household Income, Kids Driving
 
+
 🛠 Tools & Libraries Used
+
 Python (EDA & Visualization)
 
 pandas — data handling & cleaning
@@ -54,9 +59,11 @@ Interactive visuals summarizing total claims, policy counts, and distributions b
 
 KPIs like: Total Policies, Total Claim Amount, Avg Claim Frequency, Avg Claim Amount, Male vs Female split
 
-Insurance_Riskand Claim Analysis
+Insurance Risk and Claim Analysis
+
 
 📊 Analysis & Visuals
+
 Python EDA Includes:
 
 Missing value heatmap
@@ -91,6 +98,7 @@ Education → College graduates contribute highest claim amounts
 
 Kids Driving → Significant impact on claim amount
 
+
 🚀 Key Insights
 
 Gender: Nearly equal male-female split in claim amounts.
@@ -105,6 +113,7 @@ Age Groups: Middle-aged groups (30–50) show higher claim activity.
 
 Household Income: Weak correlation with claim amounts, but outliers exist.
 
+
 📌 Importance of this Analysis
 
 Provides risk assessment for insurers.
@@ -117,7 +126,9 @@ Aids in strategic decision-making for underwriting & marketing.
 
 📂 Project Structure
 ├── insurance_policies_data.xlsx   # Raw dataset
+
 ├── Insurance_Riskand Claim Analysis.pdf  # Power BI dashboard
+
 ├── notebooks/
 │   └── eda_insurance.ipynb        # Python EDA with visualizations
 ├── eda_outputs/                   # Generated plots & heatmaps
